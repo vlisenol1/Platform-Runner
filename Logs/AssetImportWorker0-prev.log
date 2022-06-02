@@ -1,0 +1,2607 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1706; Version 2009; 64bit' Language: 'tr' Physical Memory: 16336 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Unity\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/unity projects/WallRunner
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53142
+Successfully changed project path to: D:/unity projects/WallRunner
+D:/unity projects/WallRunner
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 40.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path D:/Unity/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/unity projects/WallRunner/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   30.0.15.1165
+Initialize mono
+Mono path[0] = 'D:/Unity/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Unity/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Unity/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Unity/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000996 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 41.25 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.956 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003188 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 42.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.924 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2694 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.3 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 54 unused Assets to reduce memory usage. Loaded Objects now: 3097.
+Total: 3.298100 ms (FindLiveObjects: 0.234400 ms CreateObjectMapping: 0.066100 ms MarkObjects: 1.919400 ms  DeleteObjects: 1.077300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Meshes/KillFloor.prefab
+  artifactKey: Guid(d7fe53b79a985b04e8fa9ee068ad8390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/KillFloor.prefab using Guid(d7fe53b79a985b04e8fa9ee068ad8390) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b982caa854177ecffc840cf483739aed') in 0.275186 seconds
+  Import took 0.296272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.434497 seconds.
+  path: Assets/Prefabs/KillFloor.prefab
+  artifactKey: Guid(60143fab44cb96944ab8a92e1d67dd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/KillFloor.prefab using Guid(60143fab44cb96944ab8a92e1d67dd14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338a1ed342161c70f0a9176dd38235f0') in 0.010964 seconds
+  Import took 0.038557 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.840 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.9 MB.
+System memory in use after: 121.2 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3146.
+Total: 3.331800 ms (FindLiveObjects: 0.244000 ms CreateObjectMapping: 0.065000 ms MarkObjects: 1.863500 ms  DeleteObjects: 1.158100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 639.635989 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(c767810319d29b14e8d76edbfc780ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(c767810319d29b14e8d76edbfc780ef0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4756724a3a9d51320b7fb5f595d7d3c7') in 0.008657 seconds
+  Import took 0.044677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 429.661634 seconds.
+  path: Assets/Animations/xbot@Fast Run (1).fbx
+  artifactKey: Guid(4de751c13095f7c448ecea2996c1b856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Fast Run (1).fbx using Guid(4de751c13095f7c448ecea2996c1b856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ee2d1128698ab30e9356fc3afb9948') in 0.049355 seconds
+  Import took 0.080123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.185816 seconds.
+  path: Assets/Animations/xbot@Fast Run (1).fbx
+  artifactKey: Guid(4de751c13095f7c448ecea2996c1b856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Fast Run (1).fbx using Guid(4de751c13095f7c448ecea2996c1b856) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ee2d1128698ab30e9356fc3afb9948') in 0.004346 seconds
+  Import took 0.008170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.366835 seconds.
+  path: Assets/Animations/xbot@Idle.fbx
+  artifactKey: Guid(e8f4a7bb06010984fb55018b1f7799e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Idle.fbx using Guid(e8f4a7bb06010984fb55018b1f7799e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f41eb4310a121863047b6eadd0c2ff') in 0.008785 seconds
+  Import took 0.012767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.208985 seconds.
+  path: Assets/Animations/xbot@Jumping Up.fbx
+  artifactKey: Guid(474d4a92d3fda8648a76fafd4ed48b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Jumping Up.fbx using Guid(474d4a92d3fda8648a76fafd4ed48b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb2119011bbffa877e53c5a58a6c5095') in 0.009025 seconds
+  Import took 0.023120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.711682 seconds.
+  path: Assets/Animations/New Animator Controller.controller
+  artifactKey: Guid(59c7cbb8f2f932040bd7255ebbfbf0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/New Animator Controller.controller using Guid(59c7cbb8f2f932040bd7255ebbfbf0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7648b9a55c5fb8b80b6f4c70671a8900') in 0.008415 seconds
+  Import took 0.037087 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003345 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 121.3 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3149.
+Total: 3.742400 ms (FindLiveObjects: 0.388400 ms CreateObjectMapping: 0.068700 ms MarkObjects: 2.002000 ms  DeleteObjects: 1.282100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003522 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.857 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 121.3 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3152.
+Total: 3.685700 ms (FindLiveObjects: 0.247000 ms CreateObjectMapping: 0.076300 ms MarkObjects: 2.015300 ms  DeleteObjects: 1.345900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 794.859284 seconds.
+  path: Assets/Animations/xbot@Fast Run (2).fbx
+  artifactKey: Guid(0855a6615a694594fb26649ccb3e23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Fast Run (2).fbx using Guid(0855a6615a694594fb26649ccb3e23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b98cc3646c1d4862dc2100a554bfd36') in 0.036828 seconds
+  Import took 0.051839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.883982 seconds.
+  path: Assets/Animations/xbot@Fast Run.fbx
+  artifactKey: Guid(0855a6615a694594fb26649ccb3e23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Fast Run.fbx using Guid(0855a6615a694594fb26649ccb3e23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ebf68c2781866669adafbe4bed1e1c1') in 0.008921 seconds
+  Import took 0.019646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.166371 seconds.
+  path: Assets/Animations/xbot@Fast Run.fbx
+  artifactKey: Guid(0855a6615a694594fb26649ccb3e23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Fast Run.fbx using Guid(0855a6615a694594fb26649ccb3e23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae46bae0648e00594812b68425953d53') in 0.005999 seconds
+  Import took 0.010034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.793518 seconds.
+  path: Assets/Animations/xbot@Idle.fbx
+  artifactKey: Guid(e8f4a7bb06010984fb55018b1f7799e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Idle.fbx using Guid(e8f4a7bb06010984fb55018b1f7799e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c3d069d08f3c8846e600c62ed2ccfea') in 0.006662 seconds
+  Import took 0.011016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.504530 seconds.
+  path: Assets/Animations/xbot@Jumping Up.fbx
+  artifactKey: Guid(474d4a92d3fda8648a76fafd4ed48b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Jumping Up.fbx using Guid(474d4a92d3fda8648a76fafd4ed48b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad86fca4a0a165080178ba10e788ef4e') in 0.004673 seconds
+  Import took 0.008406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002571 seconds.
+  path: Assets/Animations/xbot@Jumping Up.fbx
+  artifactKey: Guid(474d4a92d3fda8648a76fafd4ed48b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Jumping Up.fbx using Guid(474d4a92d3fda8648a76fafd4ed48b9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad86fca4a0a165080178ba10e788ef4e') in 0.005586 seconds
+  Import took 0.009173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 973.171354 seconds.
+  path: Assets/Animations/xbot@Idle.fbx
+  artifactKey: Guid(e8f4a7bb06010984fb55018b1f7799e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Idle.fbx using Guid(e8f4a7bb06010984fb55018b1f7799e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de0708b6fe0df0b5d0bf893283b0544') in 0.005410 seconds
+  Import took 0.040410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 603.355035 seconds.
+  path: Assets/Animations/Fast Run.anim
+  artifactKey: Guid(9dd40ddf393cb3d4095704d721ec2f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Fast Run.anim using Guid(9dd40ddf393cb3d4095704d721ec2f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eee8c80575cb6684ce415d3bf736eca') in 0.012576 seconds
+  Import took 0.032423 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.731618 seconds.
+  path: Assets/Animations/Idle.anim
+  artifactKey: Guid(53669d13532ab3b459d39d953092d220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle.anim using Guid(53669d13532ab3b459d39d953092d220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d864f0941741d1e69c13b34f68e427') in 0.021046 seconds
+  Import took 0.037162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.075897 seconds.
+  path: Assets/Animations/Jumping Up.anim
+  artifactKey: Guid(97572ad2480436f4b8c1b5570c19d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Jumping Up.anim using Guid(97572ad2480436f4b8c1b5570c19d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6aba681fb748e8846f07f8525004c4f') in 0.013729 seconds
+  Import took 0.036007 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003363 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.908 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 121.3 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3155.
+Total: 3.427500 ms (FindLiveObjects: 0.258300 ms CreateObjectMapping: 0.065200 ms MarkObjects: 1.796600 ms  DeleteObjects: 1.306100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003403 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 121.4 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3158.
+Total: 3.568500 ms (FindLiveObjects: 0.261600 ms CreateObjectMapping: 0.065000 ms MarkObjects: 1.752700 ms  DeleteObjects: 1.488300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003298 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.0 MB.
+System memory in use after: 121.4 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3161.
+Total: 3.241000 ms (FindLiveObjects: 0.236300 ms CreateObjectMapping: 0.064100 ms MarkObjects: 1.643400 ms  DeleteObjects: 1.296400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003382 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.836 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 121.4 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3164.
+Total: 3.545500 ms (FindLiveObjects: 0.231300 ms CreateObjectMapping: 0.064600 ms MarkObjects: 1.832300 ms  DeleteObjects: 1.416300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003412 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.909 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.2 MB.
+System memory in use after: 121.5 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3167.
+Total: 3.759900 ms (FindLiveObjects: 0.248700 ms CreateObjectMapping: 0.066000 ms MarkObjects: 1.820600 ms  DeleteObjects: 1.623500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.2 MB.
+System memory in use after: 121.5 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3170.
+Total: 3.552300 ms (FindLiveObjects: 0.242600 ms CreateObjectMapping: 0.065400 ms MarkObjects: 1.690300 ms  DeleteObjects: 1.553000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1671.494798 seconds.
+  path: Assets/Animations/xbot@Fast Run.fbx
+  artifactKey: Guid(0855a6615a694594fb26649ccb3e23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Fast Run.fbx using Guid(0855a6615a694594fb26649ccb3e23a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f838925d24843aac13d8c4cb3c88824') in 0.235838 seconds
+  Import took 0.240245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.191156 seconds.
+  path: Assets/Animations/xbot@Idle (1).fbx
+  artifactKey: Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Idle (1).fbx using Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266a55919a6783940a72a2a396320f29') in 0.085629 seconds
+  Import took 0.122453 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003827 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2620 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 138.3 MB.
+System memory in use after: 135.6 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 3246.
+Total: 3.340800 ms (FindLiveObjects: 0.260100 ms CreateObjectMapping: 0.077000 ms MarkObjects: 1.729400 ms  DeleteObjects: 1.273400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 45.067134 seconds.
+  path: Assets/Animations/xbot@Idle (1).fbx
+  artifactKey: Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Idle (1).fbx using Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb76218c05a39877d61bf651808ebda') in 0.171270 seconds
+  Import took 0.185686 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003388 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invalid AssetDatabase path: /Editor/EditorResources/cm_logo_sm.png. Use path relative to the project folder.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.AssetDatabase:LoadAssetAtPath<UnityEngine.Texture2D> (string)
+Cinemachine.Editor.CinemachineSettings:get_CinemachineLogoTexture () (at Library/PackageCache/com.unity.cinemachine@2.6.15/Editor/Windows/CinemachineSettings.cs:205)
+Cinemachine.Editor.CinemachineSettings:.cctor () (at Library/PackageCache/com.unity.cinemachine@2.6.15/Editor/Windows/CinemachineSettings.cs:261)
+Cinemachine.CinemachineColliderPrefs:.cctor () (at Library/PackageCache/com.unity.cinemachine@2.6.15/Editor/Windows/CinemachineColliderPrefs.cs:61)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.cinemachine@2.6.15/Editor/Windows/CinemachineSettings.cs line 205]
+
+Invalid AssetDatabase path: /Editor/EditorResources/cm_logo_sm.png. Use path relative to the project folder.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.AssetDatabase:LoadAssetAtPath<UnityEngine.Texture2D> (string)
+Cinemachine.Editor.CinemachineSettings:get_CinemachineLogoTexture () (at Library/PackageCache/com.unity.cinemachine@2.6.15/Editor/Windows/CinemachineSettings.cs:205)
+Cinemachine.Editor.CinemachineSettings:OnPackageLoadedInEditor () (at Library/PackageCache/com.unity.cinemachine@2.6.15/Editor/Windows/CinemachineSettings.cs:246)
+
+[Library/PackageCache/com.unity.cinemachine@2.6.15/Editor/Windows/CinemachineSettings.cs line 205]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.854 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2767 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.4 MB.
+System memory in use after: 140.7 MB.
+
+Unloading 50 unused Assets to reduce memory usage. Loaded Objects now: 3431.
+Total: 3.303100 ms (FindLiveObjects: 0.244900 ms CreateObjectMapping: 0.069200 ms MarkObjects: 1.738800 ms  DeleteObjects: 1.249400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 10003.087648 seconds.
+  path: Assets/Presets/Player.prefab
+  artifactKey: Guid(3baf3dc0da8a8d546b50e143fef05b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Presets/Player.prefab using Guid(3baf3dc0da8a8d546b50e143fef05b6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (New Animator Controller) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (New Animator Controller) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '9740101e43b27180dc292f2b1226b63a') in 0.180892 seconds
+  Import took 0.185302 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003417 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.367 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 141.0 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3471.
+Total: 4.627600 ms (FindLiveObjects: 0.371600 ms CreateObjectMapping: 0.075300 ms MarkObjects: 2.806800 ms  DeleteObjects: 1.372300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003306 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.855 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2767 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 140.9 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3474.
+Total: 3.452100 ms (FindLiveObjects: 0.251400 ms CreateObjectMapping: 0.069200 ms MarkObjects: 1.823000 ms  DeleteObjects: 1.307300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1191.775049 seconds.
+  path: Assets/Scripts/CameraController.cs
+  artifactKey: Guid(62a347938c0e8cf43a874eb55faebf5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraController.cs using Guid(62a347938c0e8cf43a874eb55faebf5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '603203982832fb49b8885c3c6ec0d6c4') in 0.014541 seconds
+  Import took 0.019622 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003351 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.914 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 141.0 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3478.
+Total: 3.493600 ms (FindLiveObjects: 0.272700 ms CreateObjectMapping: 0.085000 ms MarkObjects: 1.807000 ms  DeleteObjects: 1.328100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003388 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.863 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 141.0 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3481.
+Total: 3.470400 ms (FindLiveObjects: 0.257900 ms CreateObjectMapping: 0.067800 ms MarkObjects: 1.811700 ms  DeleteObjects: 1.332200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.923 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 141.0 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3484.
+Total: 3.789000 ms (FindLiveObjects: 0.330100 ms CreateObjectMapping: 0.072400 ms MarkObjects: 2.047400 ms  DeleteObjects: 1.338200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003422 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.934 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.6 MB.
+System memory in use after: 140.9 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3487.
+Total: 4.003700 ms (FindLiveObjects: 0.342800 ms CreateObjectMapping: 0.215100 ms MarkObjects: 2.035500 ms  DeleteObjects: 1.409200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003237 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.875 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 140.9 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3490.
+Total: 3.470700 ms (FindLiveObjects: 0.251500 ms CreateObjectMapping: 0.069800 ms MarkObjects: 1.810300 ms  DeleteObjects: 1.338300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2050.090463 seconds.
+  path: Assets/Scripts/CameraController.cs
+  artifactKey: Guid(62a347938c0e8cf43a874eb55faebf5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraController.cs using Guid(62a347938c0e8cf43a874eb55faebf5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff51d81398c62292a81e31f4719b4c8c') in 0.006148 seconds
+  Import took 0.023077 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003389 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.887 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.7 MB.
+System memory in use after: 140.9 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3493.
+Total: 4.014600 ms (FindLiveObjects: 0.330600 ms CreateObjectMapping: 0.065700 ms MarkObjects: 2.233100 ms  DeleteObjects: 1.384000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.395720 seconds.
+  path: Assets/Prefabs/Boy.prefab
+  artifactKey: Guid(bdcc586b4947dd44b9f01f2814f0a689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Boy.prefab using Guid(bdcc586b4947dd44b9f01f2814f0a689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8735e0d6d72d84f4c30a1a1899522f2') in 0.185752 seconds
+  Import took 0.205823 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003421 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.8 MB.
+System memory in use after: 141.0 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3532.
+Total: 3.524100 ms (FindLiveObjects: 0.269100 ms CreateObjectMapping: 0.064400 ms MarkObjects: 1.861700 ms  DeleteObjects: 1.328000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003512 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.8 MB.
+System memory in use after: 141.1 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3535.
+Total: 3.700200 ms (FindLiveObjects: 0.302500 ms CreateObjectMapping: 0.067200 ms MarkObjects: 1.935500 ms  DeleteObjects: 1.393400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 374.202508 seconds.
+  path: Assets/Animations/Boy.controller
+  artifactKey: Guid(834f231d3ba73f245bfe265ce4b55055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Boy.controller using Guid(834f231d3ba73f245bfe265ce4b55055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d55a0c66e7653aac3671ba2e957244') in 0.020982 seconds
+  Import took 0.025082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 212.840072 seconds.
+  path: Assets/Scenes/test.unity
+  artifactKey: Guid(be1250b37e4c0e54f9fd5c562e6ce7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/test.unity using Guid(be1250b37e4c0e54f9fd5c562e6ce7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fd6e17e01198393d929c19259ba80e') in 0.006639 seconds
+  Import took 0.011214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.528998 seconds.
+  path: Assets/Animations/xbot@Idle (1).fbx
+  artifactKey: Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Idle (1).fbx using Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de5eff0f4da7ff032f3bb244cfa9cd79') in 0.177707 seconds
+  Import took 0.182388 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.9 MB.
+System memory in use after: 141.2 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3574.
+Total: 4.899100 ms (FindLiveObjects: 0.276100 ms CreateObjectMapping: 0.071400 ms MarkObjects: 2.507100 ms  DeleteObjects: 2.042900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.143285 seconds.
+  path: Assets/Animations/xbot@Idle (1).fbx
+  artifactKey: Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Idle (1).fbx using Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '255aa8915662ddfc26d0725d0793b62d') in 0.184755 seconds
+  Import took 0.204179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.331344 seconds.
+  path: Assets/Animations/xbot@Idle (1).fbx
+  artifactKey: Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/xbot@Idle (1).fbx using Guid(0881ccf4971019e45915b3c2f847c627) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '255aa8915662ddfc26d0725d0793b62d') in 0.039050 seconds
+  Import took 0.043321 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003438 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.849 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 141.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3613.
+Total: 3.667000 ms (FindLiveObjects: 0.277700 ms CreateObjectMapping: 0.084000 ms MarkObjects: 1.938000 ms  DeleteObjects: 1.366500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.097270 seconds.
+  path: Assets/Animations/Idle 1.anim
+  artifactKey: Guid(13d6197985a3e3d45badaf57f6b3e747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle 1.anim using Guid(13d6197985a3e3d45badaf57f6b3e747) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f420601f42b60bdad7cf18dc35544a7e') in 0.019043 seconds
+  Import took 0.035027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.707977 seconds.
+  path: Assets/Animations/Fast Run.anim
+  artifactKey: Guid(9dd40ddf393cb3d4095704d721ec2f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Fast Run.anim using Guid(9dd40ddf393cb3d4095704d721ec2f11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b4a68860931f4c1fe7462227682dc2') in 0.011238 seconds
+  Import took 0.015341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.183607 seconds.
+  path: Assets/Animations/Idle.anim
+  artifactKey: Guid(53669d13532ab3b459d39d953092d220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle.anim using Guid(53669d13532ab3b459d39d953092d220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab22b2a0e2200799398a88e9f0c09908') in 0.021679 seconds
+  Import took 0.043066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.203933 seconds.
+  path: Assets/Animations/Jumping Up.anim
+  artifactKey: Guid(97572ad2480436f4b8c1b5570c19d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Jumping Up.anim using Guid(97572ad2480436f4b8c1b5570c19d258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce60a274cdaa19b56bf10a3f0e718c09') in 0.012551 seconds
+  Import took 0.016616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.860522 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(2e34e5e2d7232dc4f94c2984d3732c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(2e34e5e2d7232dc4f94c2984d3732c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62c08731cedeac82bd6fbd94642f7131') in 0.006066 seconds
+  Import took 0.009984 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003473 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.868 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 141.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3616.
+Total: 3.897000 ms (FindLiveObjects: 0.306300 ms CreateObjectMapping: 0.083900 ms MarkObjects: 2.078300 ms  DeleteObjects: 1.427500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 259.545659 seconds.
+  path: Assets/Scenes/test.unity
+  artifactKey: Guid(be1250b37e4c0e54f9fd5c562e6ce7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/test.unity using Guid(be1250b37e4c0e54f9fd5c562e6ce7cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48cfa11871598beb7baaf17ba97285b5') in 0.012605 seconds
+  Import took 0.016609 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.927 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2768 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 141.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3619.
+Total: 3.885500 ms (FindLiveObjects: 0.302400 ms CreateObjectMapping: 0.074700 ms MarkObjects: 2.119600 ms  DeleteObjects: 1.387800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.198079 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(b155e6a0833548c469342959dc4e04e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(b155e6a0833548c469342959dc4e04e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a57b3d80365e55141b352adb80fec1bb') in 0.017258 seconds
+  Import took 0.039071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.036183 seconds.
+  path: Assets/Scripts/LevelManager.cs
+  artifactKey: Guid(e4a9a946c47aa3345b54ff6a7da15c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelManager.cs using Guid(e4a9a946c47aa3345b54ff6a7da15c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c7aca9c1ebee45bcd16d9d6d08a615') in 0.006674 seconds
+  Import took 0.011169 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003561 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.906 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2769 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 141.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3623.
+Total: 3.571800 ms (FindLiveObjects: 0.259900 ms CreateObjectMapping: 0.070200 ms MarkObjects: 1.879700 ms  DeleteObjects: 1.361200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.841809 seconds.
+  path: Assets/Scripts/EnterLevel.cs
+  artifactKey: Guid(2d47b59b1645f674cb547d48a4dc73ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnterLevel.cs using Guid(2d47b59b1645f674cb547d48a4dc73ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '101f691508a7137ac98fe06a03eaba81') in 0.009932 seconds
+  Import took 0.014158 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003351 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 1.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.1 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3627.
+Total: 4.160400 ms (FindLiveObjects: 0.423000 ms CreateObjectMapping: 0.079100 ms MarkObjects: 2.224300 ms  DeleteObjects: 1.432800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003430 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.890 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3630.
+Total: 4.427100 ms (FindLiveObjects: 0.328800 ms CreateObjectMapping: 0.071400 ms MarkObjects: 2.605300 ms  DeleteObjects: 1.420500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 815.546301 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(2e34e5e2d7232dc4f94c2984d3732c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(2e34e5e2d7232dc4f94c2984d3732c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24fc1d36de946d0fc364d37987bf5674') in 0.020700 seconds
+  Import took 0.025025 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003400 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3633.
+Total: 3.788100 ms (FindLiveObjects: 0.314700 ms CreateObjectMapping: 0.070200 ms MarkObjects: 2.036900 ms  DeleteObjects: 1.365500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 716.139064 seconds.
+  path: Assets/Scripts/LevelManager.cs
+  artifactKey: Guid(e4a9a946c47aa3345b54ff6a7da15c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LevelManager.cs using Guid(e4a9a946c47aa3345b54ff6a7da15c17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09a8f790eb6b8ed60cb8aecfd55d3886') in 0.005198 seconds
+  Import took 0.009295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 246.905588 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(b155e6a0833548c469342959dc4e04e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(b155e6a0833548c469342959dc4e04e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82af79ba6da434d1da524377ee47d553') in 0.011666 seconds
+  Import took 0.015744 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003365 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.898 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3636.
+Total: 3.609600 ms (FindLiveObjects: 0.289500 ms CreateObjectMapping: 0.071200 ms MarkObjects: 1.919200 ms  DeleteObjects: 1.328800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.504537 seconds.
+  path: Assets/Scripts/Enemy.cs
+  artifactKey: Guid(569655c3b157a124ea09d0ef8830efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemy.cs using Guid(569655c3b157a124ea09d0ef8830efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1407b2ce6fa41b2f2e9d5de8f6cabf2d') in 0.008090 seconds
+  Import took 0.012144 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004323 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3639.
+Total: 3.759000 ms (FindLiveObjects: 0.419200 ms CreateObjectMapping: 0.070600 ms MarkObjects: 1.918300 ms  DeleteObjects: 1.349900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003342 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3642.
+Total: 4.424900 ms (FindLiveObjects: 0.305300 ms CreateObjectMapping: 0.070300 ms MarkObjects: 2.621400 ms  DeleteObjects: 1.426900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003332 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.873 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3645.
+Total: 3.586300 ms (FindLiveObjects: 0.282600 ms CreateObjectMapping: 0.072400 ms MarkObjects: 1.894700 ms  DeleteObjects: 1.335600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003376 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.858 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3648.
+Total: 3.677200 ms (FindLiveObjects: 0.291000 ms CreateObjectMapping: 0.084200 ms MarkObjects: 1.922700 ms  DeleteObjects: 1.378400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003432 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3651.
+Total: 3.847300 ms (FindLiveObjects: 0.349500 ms CreateObjectMapping: 0.073000 ms MarkObjects: 2.050500 ms  DeleteObjects: 1.373500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003321 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.899 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3654.
+Total: 3.972900 ms (FindLiveObjects: 0.266700 ms CreateObjectMapping: 0.070300 ms MarkObjects: 2.168100 ms  DeleteObjects: 1.467000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1148.898073 seconds.
+  path: Assets/Scripts/Enemy.cs
+  artifactKey: Guid(569655c3b157a124ea09d0ef8830efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Enemy.cs using Guid(569655c3b157a124ea09d0ef8830efa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b38e0c595ba4c3ee2e7c2726926de7f') in 0.008869 seconds
+  Import took 0.013302 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003345 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.856 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.2 MB.
+System memory in use after: 141.5 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3657.
+Total: 3.598800 ms (FindLiveObjects: 0.287600 ms CreateObjectMapping: 0.082600 ms MarkObjects: 1.894600 ms  DeleteObjects: 1.333200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.502405 seconds.
+  path: Assets/Scripts/OppoTrigger.cs
+  artifactKey: Guid(53e67ae3d4809504ab3f9a21fb13913c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OppoTrigger.cs using Guid(53e67ae3d4809504ab3f9a21fb13913c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '671ac2c41e6b61135969c37eca919fa0') in 0.009209 seconds
+  Import took 0.024180 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003327 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3661.
+Total: 3.775300 ms (FindLiveObjects: 0.290700 ms CreateObjectMapping: 0.071900 ms MarkObjects: 1.978500 ms  DeleteObjects: 1.433100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.140097 seconds.
+  path: Assets/Scripts/OppoTrigger.cs
+  artifactKey: Guid(53e67ae3d4809504ab3f9a21fb13913c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OppoTrigger.cs using Guid(53e67ae3d4809504ab3f9a21fb13913c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c317418169b9225a8861fccf28120a6') in 0.006764 seconds
+  Import took 0.011529 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003343 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.899 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3664.
+Total: 3.911200 ms (FindLiveObjects: 0.319900 ms CreateObjectMapping: 0.073900 ms MarkObjects: 2.114700 ms  DeleteObjects: 1.401900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.689000 seconds.
+  path: Assets/Scripts/OppoTrigger.cs
+  artifactKey: Guid(53e67ae3d4809504ab3f9a21fb13913c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OppoTrigger.cs using Guid(53e67ae3d4809504ab3f9a21fb13913c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b975f8fc95a92d61d437da27f94d1f45') in 0.005585 seconds
+  Import took 0.009812 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003472 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3667.
+Total: 3.582100 ms (FindLiveObjects: 0.284100 ms CreateObjectMapping: 0.072100 ms MarkObjects: 1.886200 ms  DeleteObjects: 1.338800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003302 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.859 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3670.
+Total: 3.599000 ms (FindLiveObjects: 0.286900 ms CreateObjectMapping: 0.070000 ms MarkObjects: 1.896600 ms  DeleteObjects: 1.344500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003328 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.855 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3673.
+Total: 3.663900 ms (FindLiveObjects: 0.286600 ms CreateObjectMapping: 0.083000 ms MarkObjects: 1.944900 ms  DeleteObjects: 1.348500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.855 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3676.
+Total: 3.972300 ms (FindLiveObjects: 0.317400 ms CreateObjectMapping: 0.076100 ms MarkObjects: 2.184500 ms  DeleteObjects: 1.393200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003480 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.868 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3679.
+Total: 3.668700 ms (FindLiveObjects: 0.310100 ms CreateObjectMapping: 0.083400 ms MarkObjects: 1.935400 ms  DeleteObjects: 1.339000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003370 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3682.
+Total: 4.470800 ms (FindLiveObjects: 0.325700 ms CreateObjectMapping: 0.075900 ms MarkObjects: 2.542100 ms  DeleteObjects: 1.526200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003503 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.3 MB.
+System memory in use after: 141.6 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3685.
+Total: 3.596600 ms (FindLiveObjects: 0.275700 ms CreateObjectMapping: 0.071200 ms MarkObjects: 1.893000 ms  DeleteObjects: 1.356000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1946.779166 seconds.
+  path: Assets/Scripts/EnemyJump.cs
+  artifactKey: Guid(e41e57dc9b393614cb73f413d7d287c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyJump.cs using Guid(e41e57dc9b393614cb73f413d7d287c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51012bf5d2947b36803a344995480516') in 0.010982 seconds
+  Import took 0.015967 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.892 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3689.
+Total: 3.598600 ms (FindLiveObjects: 0.284400 ms CreateObjectMapping: 0.071500 ms MarkObjects: 1.880500 ms  DeleteObjects: 1.361500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003378 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.877 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3692.
+Total: 3.708900 ms (FindLiveObjects: 0.285100 ms CreateObjectMapping: 0.070800 ms MarkObjects: 2.005100 ms  DeleteObjects: 1.347200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003322 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.861 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3695.
+Total: 4.097400 ms (FindLiveObjects: 0.329400 ms CreateObjectMapping: 0.073500 ms MarkObjects: 2.279700 ms  DeleteObjects: 1.413300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 161.961994 seconds.
+  path: Assets/Scripts/EnemyJump.cs
+  artifactKey: Guid(e41e57dc9b393614cb73f413d7d287c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyJump.cs using Guid(e41e57dc9b393614cb73f413d7d287c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86097b31343392e77aebf7953ba7e108') in 0.005315 seconds
+  Import took 0.020315 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003359 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.878 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3698.
+Total: 3.748500 ms (FindLiveObjects: 0.296400 ms CreateObjectMapping: 0.071800 ms MarkObjects: 1.976200 ms  DeleteObjects: 1.403300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003341 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.901 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3701.
+Total: 3.704800 ms (FindLiveObjects: 0.290900 ms CreateObjectMapping: 0.070200 ms MarkObjects: 1.978000 ms  DeleteObjects: 1.364800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003341 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.897 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3704.
+Total: 4.121200 ms (FindLiveObjects: 0.330500 ms CreateObjectMapping: 0.072500 ms MarkObjects: 2.318300 ms  DeleteObjects: 1.399000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003380 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.867 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3707.
+Total: 3.723100 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.084500 ms MarkObjects: 1.992800 ms  DeleteObjects: 1.350900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003403 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.862 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3710.
+Total: 4.469500 ms (FindLiveObjects: 0.301300 ms CreateObjectMapping: 0.071800 ms MarkObjects: 2.756000 ms  DeleteObjects: 1.339300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.878 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3713.
+Total: 4.990300 ms (FindLiveObjects: 0.396800 ms CreateObjectMapping: 0.074300 ms MarkObjects: 2.737400 ms  DeleteObjects: 1.779900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003332 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3716.
+Total: 3.744400 ms (FindLiveObjects: 0.300300 ms CreateObjectMapping: 0.070100 ms MarkObjects: 2.005400 ms  DeleteObjects: 1.367600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3071.528086 seconds.
+  path: Assets/Scripts/EnemyJump.cs
+  artifactKey: Guid(e41e57dc9b393614cb73f413d7d287c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyJump.cs using Guid(e41e57dc9b393614cb73f413d7d287c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bb04370c6e5cd40874e57ab6550bb6') in 0.005004 seconds
+  Import took 0.025745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Scripts/EnemyJump.cs
+  artifactKey: Guid(e41e57dc9b393614cb73f413d7d287c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyJump.cs using Guid(e41e57dc9b393614cb73f413d7d287c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98bb04370c6e5cd40874e57ab6550bb6') in 0.001646 seconds
+  Import took 0.004914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.463965 seconds.
+  path: Assets/Scripts/EnterLevel.cs
+  artifactKey: Guid(2d47b59b1645f674cb547d48a4dc73ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnterLevel.cs using Guid(2d47b59b1645f674cb547d48a4dc73ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5f2796b61ef601c3c2ca333f8d56495') in 0.004705 seconds
+  Import took 0.008962 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003389 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 3718.
+Total: 3.839500 ms (FindLiveObjects: 0.300700 ms CreateObjectMapping: 0.076100 ms MarkObjects: 1.937000 ms  DeleteObjects: 1.524800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003335 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.874 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 3720.
+Total: 3.778800 ms (FindLiveObjects: 0.303200 ms CreateObjectMapping: 0.083700 ms MarkObjects: 2.027600 ms  DeleteObjects: 1.363200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003348 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.921 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3723.
+Total: 4.458000 ms (FindLiveObjects: 0.454500 ms CreateObjectMapping: 0.072700 ms MarkObjects: 2.403300 ms  DeleteObjects: 1.526500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.729962 seconds.
+  path: Assets/Scripts/Push.cs
+  artifactKey: Guid(7ab8348eb484ca949bb35caee90527d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Push.cs using Guid(7ab8348eb484ca949bb35caee90527d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3400c2b5e9de4d7f80a689a6ce25505b') in 0.009203 seconds
+  Import took 0.013579 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003356 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.862 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3726.
+Total: 4.206700 ms (FindLiveObjects: 0.286800 ms CreateObjectMapping: 0.072400 ms MarkObjects: 2.471400 ms  DeleteObjects: 1.375200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004055 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.851 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3729.
+Total: 3.816000 ms (FindLiveObjects: 0.303800 ms CreateObjectMapping: 0.070800 ms MarkObjects: 2.070800 ms  DeleteObjects: 1.369500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003437 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.886 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2770 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.4 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3732.
+Total: 3.674700 ms (FindLiveObjects: 0.306600 ms CreateObjectMapping: 0.084100 ms MarkObjects: 1.966700 ms  DeleteObjects: 1.316400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 114.543874 seconds.
+  path: Assets/Scripts/FinishLine.cs
+  artifactKey: Guid(a816c8984e867814c8a4dafe3fb0ca1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FinishLine.cs using Guid(a816c8984e867814c8a4dafe3fb0ca1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fb240b8fa5938c9b1951b9099272e8') in 0.009187 seconds
+  Import took 0.013317 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003486 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.924 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3736.
+Total: 3.850800 ms (FindLiveObjects: 0.311900 ms CreateObjectMapping: 0.085800 ms MarkObjects: 2.045900 ms  DeleteObjects: 1.405900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003406 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.929 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3739.
+Total: 3.948200 ms (FindLiveObjects: 0.329300 ms CreateObjectMapping: 0.073100 ms MarkObjects: 2.136200 ms  DeleteObjects: 1.408500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 530.777763 seconds.
+  path: Assets/Scripts/FinishLine.cs
+  artifactKey: Guid(a816c8984e867814c8a4dafe3fb0ca1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FinishLine.cs using Guid(a816c8984e867814c8a4dafe3fb0ca1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91cb0e8fd0fff7f836c2c59c143f4d9f') in 0.004880 seconds
+  Import took 0.032367 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003769 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.928 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.5 MB.
+System memory in use after: 141.7 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3742.
+Total: 4.267100 ms (FindLiveObjects: 0.365300 ms CreateObjectMapping: 0.083400 ms MarkObjects: 2.302600 ms  DeleteObjects: 1.514600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 351.772846 seconds.
+  path: Assets/Prefabs/Wall.prefab
+  artifactKey: Guid(ef13c506be8755b419e639eaabe7063e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Wall.prefab using Guid(ef13c506be8755b419e639eaabe7063e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9acd549d5d29969262616e8c970acc6b') in 0.827745 seconds
+  Import took 0.832178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.275049 seconds.
+  path: Assets/Prefabs/Platform (7).prefab
+  artifactKey: Guid(07d7748459036d24abcd8d0c8d6b8f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Platform (7).prefab using Guid(07d7748459036d24abcd8d0c8d6b8f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a276992d03657cba418288e548dcf02') in 0.016082 seconds
+  Import took 0.020570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.061756 seconds.
+  path: Assets/Prefabs/Finish.prefab
+  artifactKey: Guid(4014121b094faa241b0597ebf538d364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Finish.prefab using Guid(4014121b094faa241b0597ebf538d364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49150bf3a2cf90d0462bc2244c4628d1') in 0.013410 seconds
+  Import took 0.017781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.044692 seconds.
+  path: Assets/Scenes/PaintScene.unity
+  artifactKey: Guid(6a809bf3a48b728408a2b23baec23a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PaintScene.unity using Guid(6a809bf3a48b728408a2b23baec23a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b58a58011098103393f9b5b6b989cae3') in 0.004889 seconds
+  Import took 0.008975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 141.256544 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(b155e6a0833548c469342959dc4e04e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(b155e6a0833548c469342959dc4e04e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70d03feeb1db29876a8fe672320fb4c') in 0.004654 seconds
+  Import took 0.008950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Scenes/Level 1.unity
+  artifactKey: Guid(b155e6a0833548c469342959dc4e04e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 1.unity using Guid(b155e6a0833548c469342959dc4e04e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70d03feeb1db29876a8fe672320fb4c') in 0.001995 seconds
+  Import took 0.005603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.673453 seconds.
+  path: Assets/Scenes/PaintScene.unity
+  artifactKey: Guid(6a809bf3a48b728408a2b23baec23a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PaintScene.unity using Guid(6a809bf3a48b728408a2b23baec23a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26c14cf0942aeb51d62e76b64e78f95d') in 0.002530 seconds
+  Import took 0.006181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 241.797878 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(2e34e5e2d7232dc4f94c2984d3732c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(2e34e5e2d7232dc4f94c2984d3732c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5484ca0e8e8ecc0b0670dc7eb04271a') in 0.005113 seconds
+  Import took 0.009215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Scenes/Level 2.unity
+  artifactKey: Guid(2e34e5e2d7232dc4f94c2984d3732c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level 2.unity using Guid(2e34e5e2d7232dc4f94c2984d3732c01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5484ca0e8e8ecc0b0670dc7eb04271a') in 0.001930 seconds
+  Import took 0.005456 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2771 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 141.8 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3781.
+Total: 3.670700 ms (FindLiveObjects: 0.301300 ms CreateObjectMapping: 0.072000 ms MarkObjects: 1.977900 ms  DeleteObjects: 1.318800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 594.019588 seconds.
+  path: Assets/Scripts/Paintable.cs
+  artifactKey: Guid(365846dc78ec9314b8143a997c13b22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Paintable.cs using Guid(365846dc78ec9314b8143a997c13b22a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b6742d139d55b4eea268c5d4b8b8d0') in 0.009210 seconds
+  Import took 0.013275 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003351 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.884 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 141.9 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3785.
+Total: 3.739700 ms (FindLiveObjects: 0.302600 ms CreateObjectMapping: 0.066300 ms MarkObjects: 2.023400 ms  DeleteObjects: 1.346600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003491 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 141.9 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3788.
+Total: 3.661400 ms (FindLiveObjects: 0.282900 ms CreateObjectMapping: 0.071300 ms MarkObjects: 1.974800 ms  DeleteObjects: 1.331600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 292.026098 seconds.
+  path: Assets/Materials/Red.mat
+  artifactKey: Guid(462b29efe743f79438fa3ef297f10cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Red.mat using Guid(462b29efe743f79438fa3ef297f10cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f476317c0675fa8bb5f280d791254d8') in 0.139687 seconds
+  Import took 0.144022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.338794 seconds.
+  path: Assets/Materials/RedBrush.mat
+  artifactKey: Guid(462b29efe743f79438fa3ef297f10cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/RedBrush.mat using Guid(462b29efe743f79438fa3ef297f10cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0391ac4a977f90db4f2e149a8cd32bad') in 0.009575 seconds
+  Import took 0.013693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 345.164014 seconds.
+  path: Assets/Prefabs/Brush.prefab
+  artifactKey: Guid(0c83ee5d2595e9349814a3f71679732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Brush.prefab using Guid(0c83ee5d2595e9349814a3f71679732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ec4d7ee305b37d6889b58f777c2d9b') in 0.017837 seconds
+  Import took 0.022081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006583 seconds.
+  path: Assets/Prefabs/Brush.prefab
+  artifactKey: Guid(0c83ee5d2595e9349814a3f71679732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Brush.prefab using Guid(0c83ee5d2595e9349814a3f71679732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94ec4d7ee305b37d6889b58f777c2d9b') in 0.013676 seconds
+  Import took 0.017692 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003404 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.897 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 142.0 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3827.
+Total: 4.146500 ms (FindLiveObjects: 0.345400 ms CreateObjectMapping: 0.073200 ms MarkObjects: 2.285800 ms  DeleteObjects: 1.440700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003356 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.864 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 142.0 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3830.
+Total: 3.761900 ms (FindLiveObjects: 0.309600 ms CreateObjectMapping: 0.085000 ms MarkObjects: 2.005600 ms  DeleteObjects: 1.360700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1734.689119 seconds.
+  path: Assets/Prefabs/Brush.prefab
+  artifactKey: Guid(0c83ee5d2595e9349814a3f71679732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Brush.prefab using Guid(0c83ee5d2595e9349814a3f71679732c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0abc4fceae3ac45862c2856493c0ad3c') in 0.132551 seconds
+  Import took 0.153510 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003373 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.900 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.9 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3869.
+Total: 3.753000 ms (FindLiveObjects: 0.296300 ms CreateObjectMapping: 0.081700 ms MarkObjects: 2.016500 ms  DeleteObjects: 1.357700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003629 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.959 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.9 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3872.
+Total: 4.845100 ms (FindLiveObjects: 0.562500 ms CreateObjectMapping: 0.216400 ms MarkObjects: 2.659000 ms  DeleteObjects: 1.406200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.885 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3875.
+Total: 3.789900 ms (FindLiveObjects: 0.299200 ms CreateObjectMapping: 0.066800 ms MarkObjects: 2.051400 ms  DeleteObjects: 1.371700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003421 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.9 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3878.
+Total: 4.513000 ms (FindLiveObjects: 0.355600 ms CreateObjectMapping: 0.078100 ms MarkObjects: 2.670900 ms  DeleteObjects: 1.407300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003279 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.866 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.9 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3881.
+Total: 3.845800 ms (FindLiveObjects: 0.309800 ms CreateObjectMapping: 0.072200 ms MarkObjects: 2.111700 ms  DeleteObjects: 1.351300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003349 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.882 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3884.
+Total: 4.049600 ms (FindLiveObjects: 0.328100 ms CreateObjectMapping: 0.078800 ms MarkObjects: 2.291000 ms  DeleteObjects: 1.350800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003711 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.913 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 142.1 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3887.
+Total: 4.010100 ms (FindLiveObjects: 0.332300 ms CreateObjectMapping: 0.090500 ms MarkObjects: 2.173600 ms  DeleteObjects: 1.412900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003330 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.9 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3890.
+Total: 3.920800 ms (FindLiveObjects: 0.346500 ms CreateObjectMapping: 0.070000 ms MarkObjects: 2.136700 ms  DeleteObjects: 1.366800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.9 MB.
+System memory in use after: 142.2 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3893.
+Total: 3.995300 ms (FindLiveObjects: 0.351300 ms CreateObjectMapping: 0.087300 ms MarkObjects: 2.111500 ms  DeleteObjects: 1.444000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1618.753661 seconds.
+  path: Assets/Scenes/tetetetet.unity
+  artifactKey: Guid(b27e0e6406a0d8543914a8f1df575c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tetetetet.unity using Guid(b27e0e6406a0d8543914a8f1df575c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac2fc66735ab200777598210d303b6b') in 0.046635 seconds
+  Import took 0.050765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.399034 seconds.
+  path: Assets/Materials/RedBrush.mat
+  artifactKey: Guid(462b29efe743f79438fa3ef297f10cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/RedBrush.mat using Guid(462b29efe743f79438fa3ef297f10cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bea4a2b31a24f2cb4838700b210cedb0') in 0.119827 seconds
+  Import took 0.141035 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003373 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.876 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.0 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 3932.
+Total: 3.990500 ms (FindLiveObjects: 0.390200 ms CreateObjectMapping: 0.072500 ms MarkObjects: 2.129800 ms  DeleteObjects: 1.397000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1360.996236 seconds.
+  path: Assets/Scenes/PaintScene.unity
+  artifactKey: Guid(6a809bf3a48b728408a2b23baec23a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PaintScene.unity using Guid(6a809bf3a48b728408a2b23baec23a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9964820434389466e82e206c865b862') in 0.013993 seconds
+  Import took 0.018204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.577803 seconds.
+  path: Assets/Scenes/tetetetet.unity
+  artifactKey: Guid(b27e0e6406a0d8543914a8f1df575c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tetetetet.unity using Guid(b27e0e6406a0d8543914a8f1df575c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e085bb3caef635e22ad0e303d559d09') in 0.001978 seconds
+  Import took 0.005874 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003554 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.910 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 142.3 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3935.
+Total: 3.780600 ms (FindLiveObjects: 0.301200 ms CreateObjectMapping: 0.071600 ms MarkObjects: 2.048200 ms  DeleteObjects: 1.358900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003640 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.888 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.0 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3938.
+Total: 4.232000 ms (FindLiveObjects: 0.333500 ms CreateObjectMapping: 0.075800 ms MarkObjects: 2.428800 ms  DeleteObjects: 1.392900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003460 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.908 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.0 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3941.
+Total: 3.894100 ms (FindLiveObjects: 0.326500 ms CreateObjectMapping: 0.086900 ms MarkObjects: 2.114800 ms  DeleteObjects: 1.365100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003593 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.874 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3944.
+Total: 3.845000 ms (FindLiveObjects: 0.300400 ms CreateObjectMapping: 0.072900 ms MarkObjects: 2.119600 ms  DeleteObjects: 1.351200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003374 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.881 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3947.
+Total: 4.393900 ms (FindLiveObjects: 0.325600 ms CreateObjectMapping: 0.215800 ms MarkObjects: 2.395400 ms  DeleteObjects: 1.455700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.580812 seconds.
+  path: Assets/Scenes/tetetetet.unity
+  artifactKey: Guid(b27e0e6406a0d8543914a8f1df575c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/tetetetet.unity using Guid(b27e0e6406a0d8543914a8f1df575c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13b84e527d682e02c6ee5d78f6a4817') in 0.028087 seconds
+  Import took 0.032273 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003374 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.895 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2772 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 145.1 MB.
+System memory in use after: 142.4 MB.
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 3950.
+Total: 4.059200 ms (FindLiveObjects: 0.322800 ms CreateObjectMapping: 0.086600 ms MarkObjects: 2.246400 ms  DeleteObjects: 1.402500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
